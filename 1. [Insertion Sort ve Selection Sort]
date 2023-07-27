@@ -1,6 +1,6 @@
 [22,27,16,2,18,6] -> Insertion Sort
 
-<h2>Soru 1: Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.</h2>
+Soru 1: Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
         1. Adım ------ [2,27,16,22,18,6]
         2. Adım ------ [2,6,16,22,18,27]
