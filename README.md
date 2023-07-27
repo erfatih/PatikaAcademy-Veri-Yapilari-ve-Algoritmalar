@@ -1,5 +1,5 @@
 # PatikaAcademy-Veri-Yapilari-ve-Algoritmalar
- [Patika Academy](https://academy.patika.dev/) [Veri Yapıları ve Algoritmalar](https://academy.patika.dev/tr/courses/veri-yapilari-ve-algoritmalar) eğitimi tamamlama projesidir.
+ [Patika Academy](https://academy.patika.dev/) tarafından hazırlanan [Veri Yapıları ve Algoritmalar](https://academy.patika.dev/tr/courses/veri-yapilari-ve-algoritmalar) eğitimi tamamlama projesidir.
 
   1. [Insertion Sort ve Selection Sort](https://github.com/erfatih/PatikaAcademy-Veri-Yapilari-ve-Algoritmalar/blob/main/1_Insertion_Sort_ve_Selection_Sort)
  
